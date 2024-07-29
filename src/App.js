@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://github.com/LeeMaretele/react-weather-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
